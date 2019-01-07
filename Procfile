@@ -1,1 +1,1 @@
-web: vendor/nginx
+web: vendor/nginx/conf/nginx.conf
